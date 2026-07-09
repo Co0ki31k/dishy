@@ -1,0 +1,23 @@
+# Java / IntelliJ
+target/
+*.class
+.idea/
+*.iml
+
+# Python / PyCharm
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Flutter / VS Code
+.dart_tool/
+.packages
+.pub-cache/
+build/
+*.copy.dart
+
+# Systemowe
+.DS_Store
+Thumbs.db
